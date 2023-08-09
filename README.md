@@ -1,7 +1,6 @@
 # qrcode_python
 
 [You must be using QR Code, but do you know the history behind it and how to create it(using Python)?](https://medium.com/@utkarshshukla.author/you-must-be-using-qr-code-but-do-you-know-the-history-behind-it-and-how-to-create-it-42568f26c956)
-generating qr code using python
 
 1. Genearate a QR code for a website/community [NerdyBio](https://www.nerdybio.com)
 2. Genearate a color QR code with logo in between for a website/community [NerdyBio](https://www.nerdybio.com)
