@@ -1,4 +1,4 @@
-# qrcode_python
+# QR code generation using Python
 
 [You must be using QR Code, but do you know the history behind it and how to create it(using Python)?](https://medium.com/@utkarshshukla.author/you-must-be-using-qr-code-but-do-you-know-the-history-behind-it-and-how-to-create-it-42568f26c956)
 
